@@ -1,5 +1,6 @@
 import React from "react"
-import ReactDOM from "react-dom"
+import ReactDom from 'react-dom';
+import "./index.css"
 
 function App() {
     return (
@@ -13,7 +14,8 @@ function App() {
                     <ul>
                         <li>Hello</li>
                         <li>World</li>
-                        <li>THis is React</li>
+                        <li>hi</li>
+                        <li>THis is Rect</li>
                     </ul>
                 </ul>
             </div>
